@@ -1,0 +1,7 @@
+el siguiente archivo fue hecho por 
+jorge lucas
+xavier cobos
+robinson Jacome
+si el .jar no abre, descomprima el archivo .rar y ejecute en netbeans
+antes de todo descargue el .rar del iot_telemetric, descomprimalo y coloque la direccion en pantalla del archivo .scv como se le indica (en ese orden)
+prosiga con la revision :3
